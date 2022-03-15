@@ -1,0 +1,4 @@
+List of installs
+
+-pip install Flask
+-pip install python-dotenv
